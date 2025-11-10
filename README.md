@@ -57,7 +57,7 @@ This project implements a two-workflow RAG system that:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/n8n-rag-qa-system.git
+   git clone https://github.com/agenticty/n8n-rag-qa-system.git
    cd n8n-rag-qa-system
    ```
 
@@ -361,9 +361,7 @@ MIT License - Feel free to use this for learning and commercial projects.
 
 ## 🙋 Questions?
 
-Built by **Jamie** as a technical interview project for an Agentic Engineer role.
-
-**Contact:** [Your Email] | [LinkedIn] | [Portfolio]
+Built by **Ty** as a technical interview project for an Agentic Engineer role.
 
 ---
 
