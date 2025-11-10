@@ -1,0 +1,36 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# N8N specific
+.n8n/
+n8n-local/
+
+# API Keys and Credentials
+*credentials*.json
+*secrets*.json
+config.json
+
+# Node modules (if you add any custom nodes)
+node_modules/
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+logs/
+
+# Test files
+test-*.txt
+*.test.js

@@ -1,0 +1,46 @@
+# Product Information
+
+## Overview
+Our flagship product is the SmartHome Hub 3000, an AI-powered home automation controller that integrates with over 500 smart home devices.
+
+## Features
+- Voice control with natural language processing
+- Machine learning-based automation rules
+- Energy usage monitoring and optimization
+- 24/7 security monitoring
+- Mobile app for iOS and Android
+
+## Technical Specifications
+- Processor: Quad-core ARM Cortex-A72
+- Memory: 4GB RAM
+- Storage: 32GB eMMC
+- Connectivity: WiFi 6, Bluetooth 5.2, Zigbee, Z-Wave
+- Power: 5V/3A USB-C
+- Dimensions: 120mm × 120mm × 25mm
+- Weight: 185g
+
+## Compatibility
+Works with:
+- Amazon Alexa devices
+- Google Home ecosystem
+- Apple HomeKit
+- Samsung SmartThings
+- Philips Hue
+- Nest thermostats
+- Ring doorbells
+- And 500+ other devices
+
+## Setup Instructions
+1. Plug in the SmartHome Hub using the included USB-C cable
+2. Download the SmartHome app from App Store or Google Play
+3. Create an account or sign in
+4. Follow the in-app pairing instructions
+5. Begin adding your smart devices
+
+## Pricing
+- SmartHome Hub 3000: $199.99
+- SmartHome Hub 3000 Pro (with extended warranty): $249.99
+- Monthly subscription (optional): $9.99/month for cloud storage and advanced features
+
+## Warranty
+All SmartHome Hub devices come with a 2-year manufacturer's warranty covering defects in materials and workmanship.

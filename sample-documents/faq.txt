@@ -1,0 +1,109 @@
+# Frequently Asked Questions (FAQ)
+
+## General Questions
+
+**Q: What is the SmartHome Hub 3000?**
+A: The SmartHome Hub 3000 is a centralized smart home controller that connects and automates all your smart devices through a single interface. It uses AI to learn your preferences and create intelligent automation rules.
+
+**Q: Do I need a subscription?**
+A: No, the SmartHome Hub works great without a subscription. The optional $9.99/month subscription adds cloud storage for security footage, advanced AI features, and remote access from anywhere in the world.
+
+**Q: Will this work with my existing smart devices?**
+A: The SmartHome Hub 3000 is compatible with over 500 brands and protocols including WiFi, Zigbee, Z-Wave, and Bluetooth devices. Check our compatibility list on the website or contact support with your specific devices.
+
+## Setup and Installation
+
+**Q: How long does setup take?**
+A: Most users complete basic setup in 10-15 minutes. Adding all your devices may take 30-60 minutes depending on how many devices you have.
+
+**Q: Do I need technical skills to set it up?**
+A: No! Our app walks you through each step with pictures and videos. If you can use a smartphone, you can set up the SmartHome Hub.
+
+**Q: What if I get stuck during setup?**
+A: We offer 24/7 chat support, phone support during business hours, and extensive video tutorials on our YouTube channel.
+
+## Compatibility
+
+**Q: Does it work with Alexa?**
+A: Yes! The SmartHome Hub integrates seamlessly with Amazon Alexa. You can control everything using voice commands.
+
+**Q: Does it work with Google Home?**
+A: Absolutely. Full Google Assistant integration is built-in.
+
+**Q: What about Apple HomeKit?**
+A: Yes, the SmartHome Hub 3000 is HomeKit certified and works with Siri.
+
+**Q: Can I use multiple voice assistants?**
+A: Yes! You can use Alexa, Google Assistant, and Siri all at the same time with the same Hub.
+
+## Features
+
+**Q: Can it learn my routines automatically?**
+A: Yes! The AI observes your patterns (when you turn lights on/off, adjust temperature, etc.) and suggests automation rules. You can accept, modify, or reject these suggestions.
+
+**Q: Does it work when the internet is down?**
+A: Local control works without internet for devices connected via Zigbee and Z-Wave. WiFi-only devices require internet. Voice control through Alexa/Google requires internet.
+
+**Q: Can I create custom automation rules?**
+A: Yes! You can create simple rules ("if this, then that") or complex routines with multiple conditions and actions.
+
+**Q: Does it monitor energy usage?**
+A: Yes, the Hub tracks energy usage for compatible smart plugs and devices, showing you real-time and historical data.
+
+## Security and Privacy
+
+**Q: Is my data secure?**
+A: Yes. All communication is encrypted with bank-level security (AES-256). We never sell your data to third parties.
+
+**Q: Where is my data stored?**
+A: Basic settings are stored locally on the Hub. With a subscription, security footage and backup settings are encrypted and stored on AWS servers in your region.
+
+**Q: Can the Hub be hacked?**
+A: We take security seriously with regular security audits, automatic firmware updates, and bug bounty programs. No system is 100% secure, but we follow industry best practices.
+
+**Q: Do you access my camera feeds?**
+A: No. Only you can access your camera feeds. Our support team cannot view your cameras even if you grant them access to your account.
+
+## Technical Support
+
+**Q: How do I update the firmware?**
+A: Updates happen automatically overnight. You'll get a notification in the morning. You can also manually check for updates in the app settings.
+
+**Q: What if a device stops responding?**
+A: Try these steps:
+1. Restart the device
+2. Check if it's within range of the Hub
+3. Remove and re-add the device in the app
+4. Contact support if the issue persists
+
+**Q: Can I control the Hub from multiple phones?**
+A: Yes! Unlimited family members can download the app and control the Hub. You can set different permission levels (admin, user, guest).
+
+**Q: What if I move to a new house?**
+A: Use the "Moving Helper" in the app. It creates a backup of your settings and helps you reconnect devices in your new location.
+
+## Billing and Subscription
+
+**Q: Can I cancel my subscription anytime?**
+A: Yes, cancel anytime with no penalties. You'll retain access until the end of your current billing period.
+
+**Q: What happens to my cloud footage if I cancel?**
+A: You have 30 days to download your footage after cancellation. After that, it's permanently deleted from our servers.
+
+**Q: Do you offer discounts?**
+A: We offer:
+- 10% off for students and teachers
+- 15% off for military and first responders
+- 20% off when you buy multiple hubs
+- Annual subscription saves 20% vs. monthly
+
+## Warranty and Returns
+
+**Q: What's covered by the warranty?**
+A: The 2-year warranty covers manufacturing defects, hardware failures, and defects in materials or workmanship. It does not cover physical damage, water damage, or modifications.
+
+**Q: What if it stops working after the warranty expires?**
+A: We offer affordable out-of-warranty replacements and repairs. Extended warranties are available at time of purchase.
+
+**Q: Can I return it if I don't like it?**
+A: Yes, 30-day money-back guarantee. Return it for any reason within 30 days for a full refund.
